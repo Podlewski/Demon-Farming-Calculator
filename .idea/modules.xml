@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/demon_farming_calculator.iml" filepath="$PROJECT_DIR$/demon_farming_calculator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/android/demon_farming_calculator_android.iml" filepath="$PROJECT_DIR$/android/demon_farming_calculator_android.iml" />
+    </modules>
+  </component>
+</project>
